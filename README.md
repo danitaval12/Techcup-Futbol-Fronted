@@ -8,7 +8,7 @@ https://www.figma.com/design/HedKnnmSbBUYQYmwasHEjl/TechCup?node-id=0-1&m=dev&t=
 Presenta la página de inicio de la plataforma, con un menú superior para navegar entre equipos, partidos y competiciones.
 Incluye secciones de noticias, redes sociales y finalistas, además de botones para iniciar sesión o unirse.
 
-![1.png](Images/1.png)
+![1.png](docs/Images/1.png)
 
 ---
 
@@ -16,15 +16,14 @@ Incluye secciones de noticias, redes sociales y finalistas, además de botones p
 Presenta el formulario para acceder al sistema mediante correo y contraseña, con opciones como “Recuérdame”, 
 recuperación de clave y acceso con Google.
 
-![2.png](Images/2.png)
-
+![2.2.png](docs/Images/2.2.png)
 ---
 
 ## Pantalla de Creación de Perfil Deportivo:
 Permite registrar un nuevo perfil completando datos personales, rol, posición, correo, edad y contraseña. Incluye la 
 opción de subir una foto y finalizar el registro con el botón “Crear perfil deportivo”.
 
-![3.png](Images/3.png)
+![3.1.png](docs/Images/3.1.png)
 
 ---
 
@@ -32,7 +31,7 @@ opción de subir una foto y finalizar el registro con el botón “Crear perfil 
 Permite a los usuarios con rol de capitán crear su equipo ingresando el nombre, seleccionando colores del uniforme y 
 subiendo el escudo. Finaliza con el botón “Continuar” para avanzar en la configuración.
 
-![4.png](Images/4.png)
+![4.png](docs/Images/4.png)
 
 ---
 
@@ -40,7 +39,7 @@ subiendo el escudo. Finaliza con el botón “Continuar” para avanzar en la co
 Presenta las estadísticas principales del equipo, incluyendo victorias, empates, derrotas y posición. También muestra 
 la información del equipo, los próximos partidos y un menú lateral y superior para una navegación más completa dentro de la plataforma.
 
-![5.png](Images/5.png)
+![5.png](docs/Images/5.png)
 
 ---
 
@@ -48,7 +47,7 @@ la información del equipo, los próximos partidos y un menú lateral y superior
 Muestra la clasificación general del torneo con estadísticas completas por equipo. A la derecha se destacan reconocimientos 
 como mejor jugador, defensa y ataque, mientras el menú lateral y superior permite navegar cómodamente por la plataforma.
 
-![6.png](Images/6.png)
+![6.png](docs/Images/6.png)
 
 ---
 
@@ -56,7 +55,7 @@ como mejor jugador, defensa y ataque, mientras el menú lateral y superior permi
 Muestra el listado completo de los equipos inscritos en el torneo TechCup junto con el nombre del capitán y su escudo. 
 Incluye un menú lateral y una barra superior que facilitan la navegación entre las distintas secciones de la plataforma.
 
-![7.png](Images/7.png)
+![7.png](docs/Images/7.png)
 
 ---
 
@@ -64,7 +63,7 @@ Incluye un menú lateral y una barra superior que facilitan la navegación entre
 Presenta un calendario interactivo junto al listado de jornadas del torneo, indicando cuáles están finalizadas, en curso o próximas. 
 A la derecha se muestran los enfrentamientos futuros con horarios, equipos y estadios, acompañado del menú lateral y la barra superior de navegación.
 
-![8.png](Images/8.png)
+![8.png](docs/Images/8.png)
 
 ---
 
@@ -73,7 +72,7 @@ Muestra el resumen personal del rendimiento del jugador, incluyendo goles, asist
 También presenta la posición actual en la tabla individual, los mejores del torneo, los próximos partidos del equipo 
 y el menú lateral para navegar entre secciones.
 
-![9.png](Images/9.png)
+![9.png](docs/Images/9.png)
 
 ---
 
@@ -81,14 +80,14 @@ y el menú lateral para navegar entre secciones.
 Presenta el resumen de actividad del árbitro, incluyendo partidos arbitrados, tarjetas mostradas y reportes pendientes. 
 También muestra el último informe realizado y los próximos partidos asignados, junto con la navegación lateral y superior.
 
-![10.png](Images/10.png)
+![10.png](docs/Images/10.png)
 
 ---
 ## Pantalla de Reporte en Curso:
 Permite registrar y visualizar los eventos del partido, mostrando goles, tarjetas y observaciones relevantes. 
 Incluye la información de los asistentes arbitrales y opciones para consultar el historial o cerrar y firmar el reporte del encuentro.
 
-![11.png](Images/11.png)
+![11.png](docs/Images/11.png)
 
 ---
 
@@ -96,12 +95,14 @@ Incluye la información de los asistentes arbitrales y opciones para consultar e
 Muestra un panel general con información clave del torneo: próximos partidos, tabla de posiciones, equipos recién unidos y gestión rápida. 
 También incluye accesos para crear nuevos torneos y administrar partidos, junto con un menú lateral y barra superior para navegación.
 
-![12.png](Images/12.png)
+![12.png](docs/Images/12.png)
 
+## Pantalla Principal del Administrador:
+![13.png](docs/Images/13.png)
 ---
 
 ### Justificacion manual de identidad 
-
+[Manual de Identidad _ JAVABURGUER.pdf](docs/Manual%20de%20identidad/Manual%20de%20Identidad%20_%20JAVABURGUER.pdf)
 ---
 ### Justificacion color principal verde
 
